@@ -9,10 +9,10 @@ I'm a passionate and driven **Computer Information Systems (CIS)** student with 
 ### 🧠 Artificial Intelligence & Machine Learning
 - Building machine learning models using Python for real-world problem-solving.
 - Developing intelligent solutions that enhance decision-making through data.
-- Hands-on experience with classification, prediction, and model evaluation.
+- Hands-on experience with classification, prediction, and model evaluation and NLP and image processing.
 
 ### 🌐 Web Development
-- Developing dynamic and interactive web applications using ASP.NET Core and Razor Pages.
+- Developing dynamic and interactive web applications using ASP.NET Core and Razor Pages and javaScript.
 - Creating full-stack solutions with a focus on clean architecture and maintainable code.
 
 ### 🎨 UI/UX Design
